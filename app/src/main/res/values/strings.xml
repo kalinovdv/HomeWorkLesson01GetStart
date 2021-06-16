@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">HomeWorkLesson01GetStart</string>
+    <string name="app_name">Андроид 1. Урок 01. Старт</string>
+    <string name="TextViewtext">Привет мир!</string>
+    <string name="InputText">Введите текст</string>
+    <string name="ButtonText">Нажми меня!</string>
+    <string name="SwitchText">Переключи меня</string>
+    <string name="CheckboxText">Отметь меня</string>
+    <string name="ToggleButtonTextOff">Включена</string>
+    <string name="ToggleButtonTextOn">Отключена</string>
+    <string name="InputPhone">Введите телефон</string>
+    <string name="InputNumber">Введите чило</string>
+    <string name="InputPassword">Введите пароль</string>
+    <string name="InputEMail">Введите e-mail адрес</string>
+    <string name="InputMultyText">Введите многострочный текст</string>
 </resources>
