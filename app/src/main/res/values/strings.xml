@@ -5,4 +5,6 @@
     <string name="ButtonText">Нажми меня!</string>
     <string name="SwitchText">Переключи меня</string>
     <string name="CheckboxText">Отметь меня</string>
+    <string name="ToggleButtonTextOff">Включена</string>
+    <string name="ToggleButtonTextOn">Отключена</string>
 </resources>

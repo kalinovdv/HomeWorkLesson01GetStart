@@ -49,4 +49,11 @@
         android:checked="true"
         android:text="@string/CheckboxText" />
 
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="100dp"
+        android:textOff="@string/ToggleButtonTextOff"
+        android:textOn="@string/ToggleButtonTextOn" />
+
 </LinearLayout>
