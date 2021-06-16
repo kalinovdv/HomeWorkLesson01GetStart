@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
@@ -11,5 +12,16 @@
         android:layout_height="wrap_content"
         android:text="@string/TextViewtext"
         android:textColor="#F44336" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="sans-serif-black"
+        android:hint="@string/InputText"
+        android:inputType="text"
+        android:textColorLink="#3F51B5"
+        android:textSize="20sp" />
 
 </LinearLayout>
