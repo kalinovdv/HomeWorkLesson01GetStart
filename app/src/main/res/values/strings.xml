@@ -7,4 +7,5 @@
     <string name="CheckboxText">Отметь меня</string>
     <string name="ToggleButtonTextOff">Включена</string>
     <string name="ToggleButtonTextOn">Отключена</string>
+    <string name="InputPhone">Введите телефон</string>
 </resources>
