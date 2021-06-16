@@ -10,4 +10,5 @@
     <string name="InputPhone">Введите телефон</string>
     <string name="InputNumber">Введите чило</string>
     <string name="InputPassword">Введите пароль</string>
+    <string name="InputEMail">Введите e-mail адрес</string>
 </resources>

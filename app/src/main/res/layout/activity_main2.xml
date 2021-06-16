@@ -52,4 +52,13 @@
         android:inputType="textPassword"
         android:textSize="20sp" />
 
+    <EditText
+        android:id="@+id/editEmailAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/InputEMail"
+        android:inputType="textEmailAddress"
+        android:textSize="20sp" />
+
 </LinearLayout>
