@@ -3,4 +3,5 @@
     <string name="TextViewtext">Привет мир!</string>
     <string name="InputText">Введите текст</string>
     <string name="ButtonText">Нажми меня!</string>
+    <string name="SwitchText">Переключи меня</string>
 </resources>
