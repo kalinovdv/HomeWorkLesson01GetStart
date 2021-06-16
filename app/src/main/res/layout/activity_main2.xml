@@ -16,4 +16,13 @@
         android:inputType="text"
         android:textSize="20sp" />
 
+    <EditText
+        android:id="@+id/editPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/InputText"
+        android:inputType="textPersonName"
+        android:textSize="20sp" />
+
 </LinearLayout>
