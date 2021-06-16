@@ -2,4 +2,5 @@
     <string name="app_name">Андроид 1. Урок 01. Старт</string>
     <string name="TextViewtext">Привет мир!</string>
     <string name="InputText">Введите текст</string>
+    <string name="ButtonText">Нажми меня!</string>
 </resources>
