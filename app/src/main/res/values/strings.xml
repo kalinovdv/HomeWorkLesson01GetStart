@@ -8,4 +8,5 @@
     <string name="ToggleButtonTextOff">Включена</string>
     <string name="ToggleButtonTextOn">Отключена</string>
     <string name="InputPhone">Введите телефон</string>
+    <string name="InputNumber">Введите чило</string>
 </resources>
